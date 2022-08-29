@@ -1,0 +1,58 @@
+*{
+    outline: 1px dotted red;
+}
+
+/* ---------------------------------------- */
+/* Section 1 */
+
+#sect-01-cont{
+    /* padding-top: 5px;
+    padding-bottom: 5px; */
+    background-color: #df473a;
+}
+
+#top-social-media-icons {
+    margin-top: 15px;
+    margin-left: 80%;
+    color: #f9f8cd;
+}
+
+
+/* ---------------------------------------- */
+/* linkedin icon styling */
+
+.linkedin {
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* ---------------------------------------- */
+/* Section 2 */
+
+#sect-02-cont {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(223,71,58);
+    background-color: linear-gradient(0deg, rgba(223,71,58,1) 0%, rgba(230,81,67,1) 50%, rgba(236,90,76,0.8895055970149254) 100%);
+}
+
+#sect-02-cont h1{
+    margin-left: 200px;
+    color: whitesmoke;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+#top-nav-links {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#top-nav-links button{
+    margin-left: 30px;
+    background-color: #fff8ce;
+}
+
+
+#top-nav-links a{
+    color: #321628;
+}
