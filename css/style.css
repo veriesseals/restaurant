@@ -33,7 +33,7 @@
     padding-top: 30px;
     padding-bottom: 30px;
     background-color: rgb(223,71,58);
-    background-color: linear-gradient(0deg, rgba(223,71,58,1) 0%, rgba(230,81,67,1) 50%, rgba(236,90,76,0.8895055970149254) 100%);
+    background-color: linear-gradient(0deg, rgba(223,71,58,1) 0%, rgba(230,80,67,1) 85%, rgba(236,121,76,1) 100%);
 }
 
 #sect-02-cont h1{
@@ -48,11 +48,79 @@
 }
 
 #top-nav-links button{
+    margin-top: 10px;
     margin-left: 30px;
     background-color: #fff8ce;
 }
 
-
 #top-nav-links a{
     color: #321628;
+    font-family: 'Hind Siliguri', sans-serif;
 }
+
+#top-nav-links a:hover{
+    color: #df473a;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+/* ---------------------------------------- */
+/* Section 3 */
+
+#sect-03-cont {
+    background-color: #fff8ce;
+}
+
+#sect-03-cont-items{
+    margin-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#sect-3-search-box svg{
+    margin-top: 7px;
+}
+
+/* ---------------------------------------- */
+/* Section 4 Carousel */
+
+#sect-04-cont-items{
+    margin-left: 17%;
+}
+
+#carousel-caption-items1 h5 {
+    color: #321628;
+}
+
+#carousel-caption-items1 p{
+    color: #321628;
+}
+
+#carousel-caption-items2 h5 {
+    color: whitesmoke;
+}
+
+#carousel-caption-items2 p{
+    color: whitesmoke;
+}
+
+#carousel-caption-items3 h5 {
+    color: whitesmoke;
+}
+
+#carousel-caption-items3 p{
+    color: whitesmoke;
+}
+
+
+#sect-04-cont{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTN05Ue3AjXNXshFS8PFs_jrEHUMxGPjD98wcBiKlwEzVwM_kGcjTC49NOVqtML1nyV7M&usqp=CAU);
+}
+
+/* .carousel-inner{
+    height: 500px;
+} */
+
+/* .carousel-inner img{
+    max-height: 500px;
+    width: auto;
+} */
