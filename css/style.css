@@ -1,6 +1,6 @@
-*{
+/* *{
     outline: 1px dotted red;
-}
+} */
 
 /* ---------------------------------------- */
 /* Section 1 */
@@ -126,17 +126,62 @@
 #sect-05-cont {
     /* margin-top: 25px; */
     padding-top: 50px;
+    padding-bottom: 30px;
     background-color: #f5eedc;
     
+}
+
+
+
+/* ---------------------------------------- */
+/* Section 6 Reservations and Offer Inner */
+
+.section6 div{
+    background-color: #f9f5ea;
+}
+
+#sect-06-cont {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+
+}
+
+#sect-06-cont-inner{
+    padding-bottom: 25px;
 }
 
 #sect-06-cont h4 {
     font-family: 'Hind Siliguri', sans-serif;
 }
 
-/* ---------------------------------------- */
-/* Section 6 Offer */
-
-#offer1 {
+#offer1, #offer2, #offer3 {
     margin-right: 10px;
+}
+
+.offer-cont span{
+    color: red;
+    text-decoration: none;
+}
+
+.offer-cont span a:link {
+    text-decoration: none;
+}
+
+
+/* ---------------------------------------- */
+/* Section 7 */
+
+#sect-07-cont {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#sect-07-cont {
+    color: whitesmoke;
+    background-color: #66635e;
+}
+
+#sect-07-cont-items {
+    margin-left: 8%;
 }
