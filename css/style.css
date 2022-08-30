@@ -111,16 +111,32 @@
     color: whitesmoke;
 }
 
+/* .section4{
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+} */
 
 #sect-04-cont{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTN05Ue3AjXNXshFS8PFs_jrEHUMxGPjD98wcBiKlwEzVwM_kGcjTC49NOVqtML1nyV7M&usqp=CAU);
 }
 
-/* .carousel-inner{
-    height: 500px;
-} */
+/* ---------------------------------------- */
+/* Section 5 Cards */
 
-/* .carousel-inner img{
-    max-height: 500px;
-    width: auto;
-} */
+#sect-05-cont {
+    /* margin-top: 25px; */
+    padding-top: 50px;
+    background-color: #f5eedc;
+    
+}
+
+#sect-06-cont h4 {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+/* ---------------------------------------- */
+/* Section 6 Offer */
+
+#offer1 {
+    margin-right: 10px;
+}
