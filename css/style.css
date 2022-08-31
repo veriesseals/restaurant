@@ -39,7 +39,8 @@
 #sect-02-cont h1{
     margin-left: 200px;
     color: whitesmoke;
-    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Aboreto', cursive;
+    font-size: 30px;
 }
 
 #top-nav-links {
@@ -78,6 +79,7 @@
 
 #sect-3-search-box svg{
     margin-top: 7px;
+    margin-left: 10px;
 }
 
 /* ---------------------------------------- */
@@ -173,8 +175,9 @@
 /* Section 7 */
 
 #sect-07-cont {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    
+    padding-top: 30px;
+    padding-bottom: 15px;
 }
 
 #sect-07-cont {
@@ -184,4 +187,86 @@
 
 #sect-07-cont-items {
     margin-left: 8%;
+}
+
+#client-logo1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#client-logo2 {
+    font-family: 'Dancing Script', cursive;
+}
+
+#client-logo3 {
+    font-family: 'Cinzel', serif;
+}
+
+#client-logo4 {
+    font-family: 'Aboreto', cursive;
+}
+
+#client-logo5 {
+    font-family: 'Uncial Antiqua', cursive;
+}
+
+/* ---------------------------------------- */
+/* Section 8 */
+
+#sect-08-cont{
+    padding: 25px 100px 50px;
+    background-color: #5c5954;
+}
+
+#sect-08-cont-item1 h5{
+    padding-bottom: 10px;
+}
+
+#sect-08-cont-item2 h5{
+    padding-bottom: 10px;
+}
+
+#sect-08-cont-item2 hr{
+    border: 1px solid grey;
+}
+
+#sect-08-cont-item3 h5{
+    padding-bottom: 10px;
+}
+
+#sect-08-cont-item4 h5{
+    padding-bottom: 10px;
+}
+
+#sect-08-cont h5 {
+    color: whitesmoke;
+}
+
+#sect-08-cont h6{
+    color: whitesmoke;
+}
+
+#sect-08-cont p{
+    color: whitesmoke;
+}
+
+#sect-08-cont-item1 a{
+    color: whitesmoke;
+}
+
+#sect-08-cont-item4 a:link{
+    color: whitesmoke;
+}
+
+/* ---------------------------------------- */
+/* Section 9 */
+
+#sect-09-cont{
+    padding: 30px 100px 0px 100px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #413e39;
+}
+
+#sect-09-cont h1, p{
+    color: whitesmoke;
 }
