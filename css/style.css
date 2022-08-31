@@ -1,6 +1,6 @@
-/* *{
+*{
     outline: 1px dotted red;
-} */
+}
 
 /* ---------------------------------------- */
 /* Section 1 */
@@ -87,6 +87,32 @@
     font-size: 24px;
     font-family: 'Hind Siliguri', sans-serif;
 }
+
+/* ---------------------------------------- */
+/* Section 4ab */
+
+#sect-4ab-cont {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url(/img/Fei-Ya-Dim-Sum.jpg);
+}
+
+/* ---------------------------------------- */
+/* Section 4a Cards on About*/
+
+#sect-04-cont-items-a-card1{
+    margin-left: 40px;
+}
+
+#sect-04-cont-items-a h3{
+    color: #df473a;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.sect-04-cont-items-a-group {
+    padding-left: 50px;
+    background-color: whitesmoke;
+}
 /* ---------------------------------------- */
 /* Section 4 Carousel */
 
@@ -131,6 +157,7 @@
 #sect-04-cont{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTN05Ue3AjXNXshFS8PFs_jrEHUMxGPjD98wcBiKlwEzVwM_kGcjTC49NOVqtML1nyV7M&usqp=CAU);
 }
+
 
 /* ---------------------------------------- */
 /* Section 5 Cards */
