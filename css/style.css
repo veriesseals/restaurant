@@ -1,6 +1,6 @@
-/* *{
+*{
     outline: 1px dotted red;
-} */
+}
 
 /* ---------------------------------------- */
 /* Section 1 */
@@ -71,10 +71,11 @@
     background-color: #fff8ce;
 }
 
-#sect-03-cont-items{
+#sect-03-cont-items {
+    margin-top: 20px;
     margin-left: 200px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 #sect-3-search-box svg{
@@ -82,6 +83,10 @@
     margin-left: 10px;
 }
 
+#sect-03-cont-items p{
+    font-size: 24px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
 /* ---------------------------------------- */
 /* Section 4 Carousel */
 
@@ -118,9 +123,25 @@
     padding-bottom: 50px;
 } */
 
-#sect-04-cont{
+#sect-04-cont-bg{
+    height: 100px;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTN05Ue3AjXNXshFS8PFs_jrEHUMxGPjD98wcBiKlwEzVwM_kGcjTC49NOVqtML1nyV7M&usqp=CAU);
 }
+
+/* ---------------------------------------- */
+/* Section 4 About */
+
+#sect-04-cont-about{
+    padding-top: 35px;
+    background-color: #f5f0dd;
+}
+/* #sect-04-cont-items-a-card1 {
+    margin-left: 15px;
+}
+
+#sect-04-cont-items-a-card2 {
+    margin-left: 15px;
+} */
 
 /* ---------------------------------------- */
 /* Section 5 Cards */
@@ -267,6 +288,23 @@
     background-color: #413e39;
 }
 
-#sect-09-cont h1, p{
+#sect-09-cont h1 {
+    font-family: 'Aboreto', cursive;
+}
+
+#sect-09-cont span{
+    font-family: 'Aboreto', cursive;
+}
+
+#sect-09-cont-items p {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+#sect-09-cont h1 {
+    color: whitesmoke;
+}
+
+#sect-09-cont p {
     color: whitesmoke;
 }
