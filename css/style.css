@@ -1,6 +1,6 @@
-*{
+/* *{
     outline: 1px dotted red;
-}
+} */
 
 /* ---------------------------------------- */
 /* Section 1 */
@@ -118,6 +118,14 @@
     background-color: whitesmoke;
 }
 
+#sect-04-cont-items-a h3 {
+    padding: 10px;
+}
+
+#sect-04-cont-items-a p{
+    padding: 10px;
+}
+
 #sect-04-cont-items-a {
     background-color: #f5f0dd;
 }
@@ -172,11 +180,16 @@
 /* Section 5 Cards */
 
 #sect-05-cont {
-    /* margin-top: 25px; */
     padding-top: 50px;
     padding-bottom: 30px;
     background-color: #f5eedc;
     
+}
+
+
+
+#sect-05-top-card {
+    margin-bottom: 15px;
 }
 
 
