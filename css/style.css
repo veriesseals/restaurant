@@ -94,11 +94,15 @@
 #sect-4ab-cont {
     padding-top: 100px;
     padding-bottom: 100px;
-    background-image: url(img/Fei-Ya-Dim-Sum.jpg);
+    background-image: url(/img/Fei-Ya-Dim-Sum.jpg);
 }
 
 /* ---------------------------------------- */
 /* Section 4a Cards on About*/
+
+#sect-04-cont-items-a-group div{
+    margin-top: 20px;
+}
 
 #sect-04-cont-items-a-card1{
     margin-left: 40px;
